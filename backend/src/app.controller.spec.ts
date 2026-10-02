@@ -20,3 +20,6 @@ describe('AppController', () => {
     });
   });
 });
+
+
+THIS_IS_AN_ERROR;
